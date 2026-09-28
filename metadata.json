@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Weave & Textile Studio",
+  "description": "Real-time 3D garment and procedural weave customizer. Design warp/weft structures, artisanal dye palettes, and repeat prints with interactive thread simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
